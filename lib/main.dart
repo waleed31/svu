@@ -14,11 +14,7 @@ import 'calculatorfolder/calculatoreng.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-//   void initState() {
-// //    super.initState();
-//     // Enable hybrid composition.
-//     if (Platform.isAndroid) WebView.platform = SurfaceAndroidWebView();
-//   }
+
 
   @override
   Widget build(BuildContext context) {
